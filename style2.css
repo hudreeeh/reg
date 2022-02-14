@@ -1,0 +1,67 @@
+.content2 {
+    width: 1440px;
+    padding: 0 744px 167px 80px;
+}
+
+.dohod{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+p{
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+    margin-bottom: 8px;
+}
+
+.intro1{
+    display: flex;
+}
+.mega{
+    width: 200px;
+    height: 48px;
+    padding-left: 16px;
+    margin-right: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.buh{
+    width: 408px;
+    height: 48px;
+    padding-left: 16px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.intro2{
+    display: flex;
+}
+
+.nothing1{
+    width: 304px;
+    height: 48px;
+    margin-right: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.nothing2{
+    width: 304px;
+    height: 48px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
